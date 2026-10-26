@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "message": {
+    "en": "EnhanceCapCut is free. If it saves you time, you can support its development.",
+    "ru": "EnhanceCapCut бесплатный. Если он экономит вам время, вы можете поддержать его развитие."
+  },
+  "methods": [
+    {
+      "id": "cloudtips",
+      "title": {
+        "en": "Card or SBP (Russia)",
+        "ru": "Карта или СБП (Россия)"
+      },
+      "description": {
+        "en": "CloudTips by T-Bank. Russian bank cards, SBP, Apple Pay and Google Pay.",
+        "ru": "CloudTips от Т-Банка. Карты российских банков, СБП, Apple Pay и Google Pay."
+      },
+      "url": "https://pay.cloudtips.ru/p/902c7c74"
+    }
+  ]
+}
