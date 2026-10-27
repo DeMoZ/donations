@@ -6,6 +6,18 @@
   },
   "methods": [
     {
+      "id": "tribute",
+      "title": {
+        "en": "Card worldwide or USDT",
+        "ru": "Карта любой страны или USDT"
+      },
+      "description": {
+        "en": "Tribute. For payments from outside Russia: bank cards of any country, or USDT via @wallet in Telegram. Paying by card needs only an email, no Telegram.",
+        "ru": "Tribute. Для оплаты из-за рубежа: карты банков любой страны или USDT через @wallet в Telegram. Для оплаты картой нужен только email, Telegram не нужен."
+      },
+      "url": "https://web.tribute.tg/d/T3o"
+    },
+    {
       "id": "cloudtips",
       "title": {
         "en": "Card or SBP (Russia)",
