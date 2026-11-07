@@ -6,6 +6,7 @@ so links and texts change here without a new release of the tool.
 | File | Tool |
 |---|---|
 | [`enhancecapcut.json`](enhancecapcut.json) | [EnhanceCapCut](https://github.com/DeMoZ/EnhanceCapCut) |
+| [`localaibar.json`](localaibar.json) | LocalAIBar |
 
 Tools read the files from
 `https://raw.githubusercontent.com/DeMoZ/donations/main/<file>` and fall back to
