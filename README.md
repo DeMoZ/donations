@@ -7,6 +7,7 @@ so links and texts change here without a new release of the tool.
 |---|---|
 | [`enhancecapcut.json`](enhancecapcut.json) | [EnhanceCapCut](https://github.com/DeMoZ/EnhanceCapCut) |
 | [`localaibar.json`](localaibar.json) | LocalAIBar |
+| [`adbtoolkit.json`](adbtoolkit.json) | [ADB Toolkit](https://github.com/DeMoZ/AdbToolsGUI) |
 | [`universalkm.json`](universalkm.json) | [UniversalKM](https://github.com/DeMoZ/UniversalKM) |
 
 Tools read the files from
