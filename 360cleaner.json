@@ -2,18 +2,36 @@
   "schema": 1,
   "message": {
     "en": "360Cleaner is free. If it saved you time removing yourself from your 360° panoramas, you can support its development.",
-    "ru": "360Cleaner бесплатный. Если он сэкономил вам время и убрал вас с 360° панорам, вы можете поддержать его развитие."
+    "ru": "360Cleaner бесплатный. Если он сэкономил вам время и убрал вас с 360° панорам, вы можете поддержать его развитие.",
+    "es": "360Cleaner es gratuito. Si te ahorró tiempo al borrarte de tus panorámicas 360°, puedes apoyar su desarrollo.",
+    "pt": "O 360Cleaner é gratuito. Se ele poupou seu tempo ao remover você dos seus panoramas 360°, você pode apoiar o desenvolvimento.",
+    "de": "360Cleaner ist kostenlos. Wenn es Ihnen Zeit gespart hat, sich aus Ihren 360°-Panoramen zu entfernen, können Sie die Entwicklung unterstützen.",
+    "fr": "360Cleaner est gratuit. S’il vous a fait gagner du temps pour vous effacer de vos panoramas 360°, vous pouvez soutenir son développement.",
+    "zh": "360Cleaner 是免费的。如果它帮你节省了从 360° 全景图中去掉自己的时间，欢迎支持它的开发。",
+    "ja": "360Cleaner は無料です。360° パノラマから自分を消す手間が省けたら、開発を支援していただけるとうれしいです。"
   },
   "methods": [
     {
       "id": "tribute",
       "title": {
         "en": "Card worldwide or USDT",
-        "ru": "Карта любой страны или USDT"
+        "ru": "Карта любой страны или USDT",
+        "es": "Tarjeta de cualquier país o USDT",
+        "pt": "Cartão de qualquer país ou USDT",
+        "de": "Karte aus jedem Land oder USDT",
+        "fr": "Carte de n’importe quel pays ou USDT",
+        "zh": "任意国家的银行卡或 USDT",
+        "ja": "世界中のカードまたは USDT"
       },
       "description": {
         "en": "Tribute. For payments from outside Russia: bank cards of any country, or USDT via @wallet in Telegram. Paying by card needs only an email, no Telegram.",
-        "ru": "Tribute. Для оплаты из-за рубежа: карты банков любой страны или USDT через @wallet в Telegram. Для оплаты картой нужен только email, Telegram не нужен."
+        "ru": "Tribute. Для оплаты из-за рубежа: карты банков любой страны или USDT через @wallet в Telegram. Для оплаты картой нужен только email, Telegram не нужен.",
+        "es": "Tribute. Para pagos desde fuera de Rusia: tarjetas bancarias de cualquier país o USDT a través de @wallet en Telegram. Para pagar con tarjeta solo necesitas un correo electrónico, no Telegram.",
+        "pt": "Tribute. Para pagamentos de fora da Rússia: cartões bancários de qualquer país ou USDT pelo @wallet no Telegram. Para pagar com cartão basta um e-mail, sem Telegram.",
+        "de": "Tribute. Für Zahlungen von außerhalb Russlands: Bankkarten aus jedem Land oder USDT über @wallet in Telegram. Für die Kartenzahlung genügt eine E-Mail-Adresse, Telegram ist nicht nötig.",
+        "fr": "Tribute. Pour les paiements depuis l’extérieur de la Russie : cartes bancaires de tout pays, ou USDT via @wallet dans Telegram. Pour payer par carte, une adresse e-mail suffit, sans Telegram.",
+        "zh": "Tribute。适用于俄罗斯境外付款：任意国家的银行卡，或通过 Telegram 中的 @wallet 支付 USDT。用银行卡付款只需电子邮箱，无需 Telegram。",
+        "ja": "Tribute。ロシア国外からのお支払い向け：世界中の銀行カード、または Telegram の @wallet 経由の USDT。カード払いならメールアドレスだけで済み、Telegram は不要です。"
       },
       "url": "https://web.tribute.tg/d/T3o"
     },
@@ -21,11 +39,23 @@
       "id": "cloudtips",
       "title": {
         "en": "Card or SBP (Russia)",
-        "ru": "Карта или СБП (Россия)"
+        "ru": "Карта или СБП (Россия)",
+        "es": "Tarjeta o SBP (Rusia)",
+        "pt": "Cartão ou SBP (Rússia)",
+        "de": "Karte oder SBP (Russland)",
+        "fr": "Carte ou SBP (Russie)",
+        "zh": "银行卡或 SBP（俄罗斯）",
+        "ja": "カードまたは SBP（ロシア）"
       },
       "description": {
         "en": "CloudTips by T-Bank. Russian bank cards, SBP, Apple Pay and Google Pay.",
-        "ru": "CloudTips от Т-Банка. Карты российских банков, СБП, Apple Pay и Google Pay."
+        "ru": "CloudTips от Т-Банка. Карты российских банков, СБП, Apple Pay и Google Pay.",
+        "es": "CloudTips de T-Bank. Tarjetas de bancos rusos, SBP, Apple Pay y Google Pay.",
+        "pt": "CloudTips do T-Bank. Cartões de bancos russos, SBP, Apple Pay e Google Pay.",
+        "de": "CloudTips von der T-Bank. Karten russischer Banken, SBP, Apple Pay und Google Pay.",
+        "fr": "CloudTips de T-Bank. Cartes de banques russes, SBP, Apple Pay et Google Pay.",
+        "zh": "T-Bank 的 CloudTips。支持俄罗斯银行卡、SBP、Apple Pay 和 Google Pay。",
+        "ja": "T-Bank の CloudTips。ロシアの銀行カード、SBP、Apple Pay、Google Pay に対応。"
       },
       "url": "https://pay.cloudtips.ru/p/902c7c74"
     }
