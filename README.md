@@ -11,6 +11,7 @@ so links and texts change here without a new release of the tool.
 | [`universalkm.json`](universalkm.json) | [UniversalKM](https://github.com/DeMoZ/UniversalKM) |
 | [`360cleaner.json`](360cleaner.json) | [360Cleaner](https://github.com/DeMoZ/360cleaner) |
 | [`usbmemorychecker.json`](usbmemorychecker.json) | [UsbMemoryChecker](https://github.com/DeMoZ/UsbMemoryChecker) |
+| [`hubbridge.json`](hubbridge.json) | [HubBridge](https://github.com/DeMoZ/HubBridge) |
 
 Tools read the files from
 `https://raw.githubusercontent.com/DeMoZ/donations/main/<file>` and fall back to
